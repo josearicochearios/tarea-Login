@@ -1,0 +1,1 @@
+DROP DATABASE tarealogin_db;
